@@ -83,10 +83,13 @@ Lokasimu sekarang.
 
 Tuliskan beberapa hal yang sedang kamu minati sekarang.
 
+### Bahasa Pemrograman Favorit
+
+Tulis beberapa bahasa pemrograman favoritmu
+
 ### Proyek
 
 - [Nama proyek](link repo Github) Deskripsi pendek
-
 
 ### Kontak
 
