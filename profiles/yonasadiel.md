@@ -17,4 +17,4 @@ C++, Typescript
 - [ladon](https://github.com/yonasadiel/ladon) Form builder menggunakan Google App Script.
 
 ### Kontak
-- Github: [ridho9](https://github.com/ridho9)
+- Github: [yonasadiel](https://github.com/yonasadiel)
