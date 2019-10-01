@@ -40,7 +40,7 @@ Kalian bisa mengerjakan salah satu atau keduanya, lakukan pull request dan tungg
 ```
 git clone https://github.com/usernamemu/hacktoberfest2019kuy
 ```
-3. Buat branch baru 
+3. Buat branch baru
 ```
 git branch -b nama-branch
 ```
@@ -63,7 +63,7 @@ Tambahkan namamu ke file `CONTRIBUTORS.md` dengan format seperti ini
 
 ```md
 #### Nama: [Namamu](link akun github)
-- Lokasi: Dimana kalian bertempat tinggal?
+- Lokasi: Kota dan provinsi tempat tinggal
 - Bio: Siapa kamu?
 - Bidang: Pilih salah satu bidang yang kalian minati (seperti frontend, backend, data science, dan lain-lain)
 ```
@@ -77,11 +77,11 @@ Tambahkan file `usernamegithub.md` ke folder `profiles`, dan tambahkan profilmu 
 
 ### Lokasi
 
-Lokasimu sekarang.
+Kota dan provinsi tempat tinggalmu sekarang.
 
 ### Minat
 
-Tuliskan beberapa hal yang sedang kamu minati sekarang.
+Tuliskan beberapa bidang yang sedang kamu minati sekarang (seperti frontend, backend, data science, dan lain-lain).
 
 ### Bahasa Pemrograman Favorit
 
@@ -101,7 +101,7 @@ Kalian bebas menambahkan atau mengurangi hal yang ingin kalian tampilkan di prof
 
 ## Link Tambahan
 
-- Tutorial markdown github https://guides.github.com/features/mastering-markdown/
-- Tutorial melakukan pull request https://github.com/firstcontributions/first-contributions
+- [Tutorial markdown github](https://guides.github.com/features/mastering-markdown/)
+- [Tutorial melakukan pull request](https://github.com/firstcontributions/first-contributions)
 
 Selamat berkontibusi! Semoga dapat kausnya ya!
