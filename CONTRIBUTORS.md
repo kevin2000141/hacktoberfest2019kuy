@@ -2,3 +2,8 @@
 - Lokasi: Bandung
 - Bio: Seseorang yang kebetulan membuat repo ini hehe, masih kuliah.
 - Bidang: Backend
+
+#### Nama: [Erma Safira Nurmasyita](https://github.com/rhaerma)
+- Lokasi: Bandung
+- Bio: Masih kuliah, sedang mencari jati diri.
+- Bidang: Backend
