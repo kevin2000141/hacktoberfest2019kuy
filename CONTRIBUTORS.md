@@ -7,3 +7,8 @@
 - Lokasi: Bandung
 - Bio: Masih kuliah, sedang mencari jati diri.
 - Bidang: Backend
+
+#### Nama: [Ilham Syahid Syamsudin](https://github.com/ilhamsyahids)
+- Lokasi: Bandung
+- Bio: Hmm.. ngikutin yang lain deh, masih kuliah.
+- Bidang: (masih) Frontend
