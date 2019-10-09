@@ -17,3 +17,8 @@
 - Lokasi: Bandung
 - Bio: Masih kuliah, keos UTS, masih single
 - Bidang: Backend
+
+#### Nama: [Bram Musuko Panjaitan](https://github.com/bmusuko)
+- Lokasi: Bandung
+- Bio: Masih kuliah, sedang belajar vue
+- Bidang: Frontend
