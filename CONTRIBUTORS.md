@@ -12,3 +12,8 @@
 - Lokasi: Bandung
 - Bio: Hmm.. ngikutin yang lain deh, masih kuliah.
 - Bidang: (masih) Frontend
+
+#### Nama: [Morgen Sudyanto](https://github.com/moondemon68)
+- Lokasi: Bandung
+- Bio: Masih kuliah, keos UTS, masih single
+- Bidang: Backend
